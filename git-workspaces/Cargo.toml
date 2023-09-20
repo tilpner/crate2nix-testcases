@@ -1,0 +1,7 @@
+[package]
+name = "crate2nix-git-workspaces"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sqlx = { git = "https://github.com/launchbadge/sqlx", features = [ "postgres" ] }

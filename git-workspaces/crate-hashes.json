@@ -1,0 +1,9 @@
+{
+  "sqlx 0.7.1 (git+https://github.com/launchbadge/sqlx#35ba8e2b93f085bbd3b40d31c2f7b01a9911a9de)": "197v8hksa337imj8mnwgg3gn8q18ikizln76vkhh21rxp9y1q98b",
+  "sqlx-core 0.7.1 (git+https://github.com/launchbadge/sqlx#35ba8e2b93f085bbd3b40d31c2f7b01a9911a9de)": "197v8hksa337imj8mnwgg3gn8q18ikizln76vkhh21rxp9y1q98b",
+  "sqlx-macros 0.7.1 (git+https://github.com/launchbadge/sqlx#35ba8e2b93f085bbd3b40d31c2f7b01a9911a9de)": "197v8hksa337imj8mnwgg3gn8q18ikizln76vkhh21rxp9y1q98b",
+  "sqlx-macros-core 0.7.1 (git+https://github.com/launchbadge/sqlx#35ba8e2b93f085bbd3b40d31c2f7b01a9911a9de)": "197v8hksa337imj8mnwgg3gn8q18ikizln76vkhh21rxp9y1q98b",
+  "sqlx-mysql 0.7.1 (git+https://github.com/launchbadge/sqlx#35ba8e2b93f085bbd3b40d31c2f7b01a9911a9de)": "197v8hksa337imj8mnwgg3gn8q18ikizln76vkhh21rxp9y1q98b",
+  "sqlx-postgres 0.7.1 (git+https://github.com/launchbadge/sqlx#35ba8e2b93f085bbd3b40d31c2f7b01a9911a9de)": "197v8hksa337imj8mnwgg3gn8q18ikizln76vkhh21rxp9y1q98b",
+  "sqlx-sqlite 0.7.1 (git+https://github.com/launchbadge/sqlx#35ba8e2b93f085bbd3b40d31c2f7b01a9911a9de)": "197v8hksa337imj8mnwgg3gn8q18ikizln76vkhh21rxp9y1q98b"
+}
